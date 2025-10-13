@@ -10,6 +10,7 @@
 - https://velog.io/@teo/fsd
 - https://velog.io/@teo/separation-of-concerns-of-frontend
 - https://github.com/feature-sliced/awesome?tab=readme-ov-file#tools
+- https://github.com/ddd-crew/free-ddd-learning-resources
 
 # Tanstack Query
 
